@@ -248,6 +248,8 @@ input[type=submit] {
   margin-bottom: 85px;
 }
 .main-section1{
+  margin-right: 267px;
+  margin-bottom: 85px;
 
 }
 nav {
@@ -295,6 +297,7 @@ nav {
     margin-right: 87px;
   }
 
+  /*having trouble sizing images to the width of viewport*/
   .auth-image {
     width: 100%;
     padding: 50px;
